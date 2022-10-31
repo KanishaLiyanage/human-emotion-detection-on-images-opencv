@@ -1,1 +1,1 @@
-<h1> Detect Human Emotions on Images Using Pretrained Model </h1>
+<h1> Detect Human Emotions in Images Using Deep Learning Model </h1>
